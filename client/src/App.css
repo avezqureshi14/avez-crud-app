@@ -1,0 +1,13 @@
+.btn {
+  background: #e91d40;
+  border: none;
+  font-size: 16px;
+  text-transform: uppercase;
+  font-family: 'Roboto';
+  cursor: pointer;
+  opacity: 0.8;
+}
+
+.css-1qnn7zt-MuiPaper-root-MuiAppBar-root{
+  background-color: #e91d40 !important;
+}
